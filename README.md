@@ -6,5 +6,5 @@ https://vedant6.github.io/html-tutorial/Module%203/index.html
 
 Kindly look into module 3 package to view my project's source code
 
-To Know more about my project, send a mail on the below email address:
+To Know more about my project, send a mail on the given email address:
 vedant.aggarwal@outlook.com 
