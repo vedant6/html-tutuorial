@@ -3,3 +3,8 @@ Welcome to my Project known as Gymtech. It is a single page coded website using 
 Kindly use the link below to take look at my website. Make use of inspect elemt tool of your browser to view the website at different platforms for e.g. phone, tablet, desktop, etc.
 
 https://vedant6.github.io/html-tutorial/Module%203/index.html
+
+Kindly look into module 3 package to view my project's source code
+
+To Know more about my project, send a mail on the below email address:
+vedant.aggarwal@outlook.com 
