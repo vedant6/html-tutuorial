@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+Welcome to my Project known as Gymtech. It is a single page coded website using solely by me using HTML, CSS, JavaScript, Bootstrap. It is a responsive website which I attained using media queries. It is a project to showcase my skills in front-end development.
 
-You can use the [editor on GitHub](https://github.com/vedant6/html-tutuorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Kindly use the link below to take look at my website. Make use of inspect elemt tool of your browser to view the website at different platforms for e.g. phone, tablet, desktop, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vedant6/html-tutuorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://vedant6.github.io/html-tutorial/Module%203/index.html
